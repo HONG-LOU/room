@@ -1,0 +1,1 @@
+import{d as o,q as t,k as a,u as c,o as n}from"./index-CplolMp0.js";import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";const _={class:"house_view"},i=o({__name:"HouseView",setup(u){const e=c(),s=()=>{e.push("/view")};return(p,d)=>(n(),t("div",_,[a("div",{class:"detail",onClick:s},"进入可视化大屏")]))}}),f=r(i,[["__scopeId","data-v-56eec629"]]);export{f as default};
